@@ -1,0 +1,9 @@
+- Hi, I’m Janhvi Singh
+- I’m a pre-final undergraduate at University of Lucknow
+- I'm currently working on some machine learning and web development projects
+- I'm looking to collaborate on LinkedIn
+- I write articles on
+- https://medium.com/@janhvisinghshrinet
+- I’m currently learnin
+- I’m looking to collaborate on ...
+- How to reach me janhvisinghshrinet@gmail.com
