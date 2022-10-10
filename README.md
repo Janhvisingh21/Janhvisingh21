@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janhvi Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janhvisingh21&label=Profile%20views&color=0e75b6&style=flat" alt="janhvisingh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhvisingh21" alt="janhvisingh21" /></a> </p>
+
+
 
 - 👯 I’m looking to collaborate on [https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a](https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a)
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/janhvi2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janhvi2101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a" height="30" width="40" /></a>
-<a href="https://medium.com/@janhvisinghshrinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janhvisinghshrinet" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
