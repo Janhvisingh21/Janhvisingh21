@@ -1,5 +1,6 @@
+<img src="https://images.app.goo.gl/uZK5SuuHZ69pp1cV8">
 <h1 align="center">Hi 👋, I'm Janhvi Singh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web development and software development enthusiast from India</h3>
 
 
 
