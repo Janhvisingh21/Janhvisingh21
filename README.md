@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janhvi Singh</h1>
-<h3 align="center">I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer having a keen interest in Open Source and Technical Communities.
+<h3 align="center">I am a Web Developer, Open Source contributor and an aspiring Software Engineer having a keen interest in Open Source and Technical Communities.</h3>
 
-🎓 Currently I am pursuing my Bachelors in Computer Science and Engineering from University of Lucknow.</h3>
+🎓 Currently I am pursuing my Bachelors in Computer Science and Engineering from University of Lucknow
 
 
 
