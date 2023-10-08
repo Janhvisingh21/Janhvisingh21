@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Janhvi Singh</h1>
-<h3 align="center">A passionate full stack web development and software development enthusiast from India</h3>
+<h3 align="center">I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer having a keen interest in Open Source and Technical Communities.
+
+🎓 Currently I am pursuing my Bachelors in Computer Science and Engineering from University of Lucknow.</h3>
 
 
 
 
 
-- 👯 I’m looking to collaborate on [https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a](https://www.linkedin.com/in/janhvi-singh-she-her-411b8420a)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/janhvi-singh21/)
 
-- 📝 I regularly write articles on [https://medium.com/@janhvisinghshrinet](https://medium.com/@janhvisinghshrinet)
+- 📝 I regularly write articles on [Medium](https://medium.com/@janhvi2101)
 
 - 📫 How to reach me **janhvisinghshrinet@gmail.com**
 
