@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Janhvi Singh</h1>
 <h3 align="center">I am a Web Developer, Open Source conitrbutor and an aspiring Software Engineer having a keen interest in Open Source and Technical Communities.
 
@@ -13,16 +12,6 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@janhvi2101)
 
 - 📫 How to reach me **janhvisinghshrinet@gmail.com**
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Janhvi2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Janhvi2101" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/janhvi-singh21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janhvi-singh21/" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
