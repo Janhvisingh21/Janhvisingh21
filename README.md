@@ -58,9 +58,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janhvisingh21&show_icons=true&locale=en" alt="janhvisingh21" /></p>
-
-
 
 
 
